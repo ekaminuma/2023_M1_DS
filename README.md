@@ -1,4 +1,3 @@
-![image](https://github.com/ekaminuma/2023_M1_DS/assets/3303058/0dbfd1bf-2e5f-4858-b574-ded568fcc486)# 2023_M1_DS
 Advanced Data Science / Master Class
 - 1 DX入門1　:　ガイダンス, 講師紹介, DXの定義, AI入門, AI体験(Google Teachable Machine)　 
 - 2 DX入門2  :   AIブームと技術発展, RPAとAI, Microsoft365の使い方（ログイン, Teamsの準備）, RPA体験(Power Automate)
