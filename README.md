@@ -1,4 +1,6 @@
-Advanced Data Science / Master Class
+__Advanced Data Science / Master Class__
+
+2023年版
 - 1 DX入門1　:　ガイダンス, 講師紹介, DXの定義, AI入門, AI体験(Google Teachable Machine)　 
 - 2 DX入門2  :   AIブームと技術発展, RPAとAI, Microsoft365の使い方（ログイン, Teamsの準備）, RPA体験(Power Automate)
 - 3 DX入門3  :   データ可視化とグラフ, Business Intelligenceツール, Google Looker Studioによるデータ可視化
@@ -15,3 +17,24 @@ Advanced Data Science / Master Class
 - 13 AIの法律と倫理 : AIの法律と倫理, GPT3周辺の話題, Prompt Engineering誕生と能力格差
 - 14 生成AIの実践1　: Text-to-Text, Text-to-Image, Text-to-Video, Text-to-3D
 - 15 生成AIの実践2 :  Text-to-Code(Infographic,Web App)
+
+---
+
+2022年版
+-
+ - 1 AI体験(Google Teachable Machine)
+ - 2　RPA: Power Automate
+ - 3  Power BI
+ - 4  PowerVA
+ - 5 プレゼン発表(RPA: Power Automate)
+ - 6 Linux入門
+ - 7　APIとオープンデータ
+ - 8　古典的機械学習1 PyCaret Iris(分類タスク)
+ - 9　古典的機械学習2 PyCaret Diamond(回帰タスク)　
+ - 10　深層学習1 Word2Vec
+ - 11 深層学習2 StyleTransfer
+ - 12 深層学習3 GAN
+ - 13　AI Ethics, GPT-3
+ - 14  プレゼン発表(Word2Vec, StyleTransfer, StyleGAN3, DALLE-mini)
+ - 15 　Cloud AI実習(Microsoft Azure)
+-
