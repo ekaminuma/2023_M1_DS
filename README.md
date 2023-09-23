@@ -12,6 +12,6 @@ Advanced Data Science / Master Class
 - 10 深層学習2： 畳み込みニューラルネットワークの構造, 記述方法, 学習済モデル, 前処理, 転移学習, CNNで画風変換にチャレンジ
 - 11 深層学習3：回帰タスク、回帰タスクのアルゴリズム生成タスク、事例紹介、生成タスク(GAN)、 StyleGAN3を用いて顔画像を編集しよう
 - 12 AIモデルのまとめ：XAI、AutoML、CNN、Transformer(ViT, GPT-2, GPT-3,4), GNN, YOLO
-- 13 
+- 13 AIの法律と倫理、GPT3の話題　: Prompt Engineering, Text-to-Text, Text-to-Image, Text-to-Video, Text-to-3D, Text-to-Code(Infographic,Web App)
 - 14 
 - 15 
