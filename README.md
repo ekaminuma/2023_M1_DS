@@ -37,4 +37,4 @@ __Advanced Data Science / Master Class__
  - 13　AI Ethics, GPT-3
  - 14  プレゼン発表(Word2Vec, StyleTransfer, StyleGAN3, DALLE-mini)
  - 15 　Cloud AI実習(Microsoft Azure)
--
+---
